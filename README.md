@@ -17,7 +17,7 @@ I'm an Egyptian self-taught Android Engineer with 2 years of work experience in 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### Connect with me:
-- [Twitter](https://twitter.com/Mr3y_Dev)
+- [Twitter](https://x.com/abdelrh_khairy)
 - [Mastodon](https://mastodon.social/@mr3yy)
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-khiry/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Abdelrahman+Khairy) 
