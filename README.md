@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm an Egyptian self-taught Android Engineer with 2 years of work experience in the Android platform/JVM ecosystem. I code mainly in Kotlin, and previously in Java, I also like trying new languages & technologies. 
+I'm an Egyptian self-taught Android Engineer, working on Android platform/JVM ecosystem since 2021. I code mainly in Kotlin, and previously in Java. 
+
+Currently, I'm trying to make some baby steps into the backend world by creating server-side apps using Ktor Server framework, I also like trying new languages & technologies. 
 
 ### Technologies I'm most familiar with:
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-black?style=for-the-badge&logo=jetpack-compose)
