@@ -15,13 +15,13 @@ Currently, I'm trying to make some baby steps into the backend world by creating
 ### Tools & IDEs I use in my daily workflow:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Fleet](https://img.shields.io/badge/Fleet-54f8ff?style=for-the-badge)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### Connect with me:
 - [Twitter](https://x.com/abdelrh_khairy)
 - [Mastodon](https://mastodon.social/@mr3yy)
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-khiry/)
+- [Bluesky](https://bsky.app/profile/mr3yy.bsky.social)
 - [Google Play](https://play.google.com/store/apps/developer?id=Abdelrahman+Khairy) 
 <!--
 **mr3y-the-programmer/mr3y-the-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
